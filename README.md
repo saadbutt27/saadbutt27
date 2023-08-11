@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saad_butt27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saad_butt27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saad-butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-butt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saad-butt-29853524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-butt" height="30" width="40" /></a>
 <a href="https://fb.com/saad.butt81@yahoo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad.butt81@yahoo,com" height="30" width="40" /></a>
 <a href="https://instagram.com/saadbutt207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadbutt207" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sb03750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sb03750" height="30" width="40" /></a>
