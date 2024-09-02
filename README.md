@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Nisar Butt</h1>
-<h3 align="center">Web Developer Exploring Next.js and Web 3.0 🚀</h3>
+<h3 align="center">Full Stack Developer - AI/ML  🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadbutt27&label=Profile%20views&color=0e75b6&style=flat" alt="saadbutt27" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@saad_butt27" target="blank"><img src="https://img.shields.io/twitter/follow/@saad_butt27?logo=twitter&style=for-the-badge" alt="@saad_butt27" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project**
+- 🔭 I’m currently working on **AI/ML Projects**
 
-- 🌱 I’m currently learning **Nextjs, Web 3.0, Blockchain**
+- 🌱 I’m currently learning **Next.js, and Machine Learning algorithms**
 
 - 👨‍💻 All of my projects are available at [https://resume-website-saadbutt27.vercel.app/](https://resume-website-saadbutt27.vercel.app/)
 
